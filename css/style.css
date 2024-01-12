@@ -60,7 +60,7 @@ a, a:visited {
   color: #e68bbe;
 }
 .container .child:nth-child(6) h2 {
-  color: black;
+  color: #c9ffc7;
 }
 .container .child > p {
   font-size: 1.618rem;
