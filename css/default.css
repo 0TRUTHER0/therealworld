@@ -1,0 +1,23 @@
+html {
+  font-size: 14px;
+}
+body {
+  font-family: JetBrains Mono, monospace;
+  color: #d0dad9;
+  background-color: #242831;
+  min-height: 100vh;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+.container {
+  min-height: 100vh;
+  width: 800px;
+  margin: 50px auto;
+}
+h1 {
+  text-align: center;
+}
